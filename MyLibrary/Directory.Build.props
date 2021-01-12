@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Bausedep</Copyright>
+    <Description>Base development building block</Description>
+    <Copyright>Travlr</Copyright>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <Authors>Travlr</Authors>
+    <!--<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>-->
+    <Version>3.1.2</Version>
+    <PackageProjectUrl>https://www.travlr.com</PackageProjectUrl>
+    <!--<PackageLicenseFile>License.md</PackageLicenseFile>-->
+    <FileVersion>3.1.2</FileVersion>
+  </PropertyGroup>
+</Project>
